@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Dedicated to the enjoyment of pet birds
-datePublished: '2016-02-21T20:37:14.938Z'
-dateModified: '2016-02-21T20:36:43.538Z'
+datePublished: '2016-02-21T20:38:23.728Z'
+dateModified: '2016-02-21T20:37:49.698Z'
 title: ABOUT KC Bird Whisperer International
 author: []
+sourcePath: _posts/2016-02-21-about-kc-bird-whisperer-international.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-about-kc-bird-whisperer-international.md
-published: true
 url: about-kc-bird-whisperer-international/index.html
 _type: Article
 
